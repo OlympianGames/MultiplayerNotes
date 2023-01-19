@@ -3,6 +3,7 @@ Personal notes on multiplayer and networking in unity
 
 ## Articles / Lists
 [GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources)
+[Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
 
 ## Dark Rift Multiplayer
 [Dark Rift Github](https://github.com/DarkRiftNetworking/DarkRift) <br>
